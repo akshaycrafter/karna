@@ -3,7 +3,7 @@
 
 A dark, bold landing page for a fitness gym that doesn't do subtle.
 
-🔗 **Live:** [REPLACE_WITH_ACTUAL_URL]
+🔗 **Live:** https://karna.akshaycodecrafter.workers.dev/
 
 ## Preview
 
